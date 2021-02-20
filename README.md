@@ -19,7 +19,6 @@
 ---
 * ### XGBoost performed best on our dataset with test adjusted R2 score of  0.73.
 * ### Gradient Boosting and Random Forest also performed well compared other models.
-* ### From feature importance plot of Random Forest, Gradient Boosting and XGBoosting we can conclude that most important features are CC2 (Comment count in last 24 hrs w.r.t to selected basetime)
-Base Time/Date 
+* ### From feature importance plot of Random Forest, Gradient Boosting and XGBoosting we can conclude that most important features are CC2.
 * ### Dataset was large, so unable to use grid-search to find the optimal hyperparameters. Model accuracy can be improved.
 
